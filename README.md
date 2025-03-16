@@ -11,11 +11,13 @@ Investigate factors contributing to payment delays, including:
 The relationship between loan amount and overdue days.
 Seasonal patterns in late payments (monthly/quarterly trends).
 Differences in repayment behavior between repeat and first-time borrowers.
+
 📈 Key Insights
 
 The correlation between loan amount and overdue days is -0.007, indicating no significant relationship.
 Late payments may exhibit seasonal variations, suggesting the need for further cohort analysis.
 Differences in late payment rates between repeat borrowers and new clients may provide insights into credit risk assessment.
+
 ⚙️ Technologies Used
 
 Python: Pandas, NumPy, Matplotlib, Seaborn
